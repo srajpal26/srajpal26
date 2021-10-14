@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srajpal26
+- 👋 Hi, I’m Simran Rajpal
 - 👀 I’m looking for a job in Software Testing profile.
 - 🌱 I’m currently learning Selenium Webdriver
 - 📫 How to reach me at: simranrajpal2620@gmail.com
