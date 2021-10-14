@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @srajpal26
 - 👀 I’m looking for a job in Software Testing profile.
 - 🌱 I’m currently learning Selenium Webdriver
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at: simranrajpal2620@gmail.com
 
 <!---
